@@ -1,4 +1,4 @@
-26765555570707416
+26767319076520101
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59359,6 +59359,13 @@ MODULE_NUCLEO-G474RE
 0
 76
 76
+Custom
+SULLINS_PPTC202LFBN-RC
+
+
+0
+40
+40
 Custom
 TE_2-215307-0
 
