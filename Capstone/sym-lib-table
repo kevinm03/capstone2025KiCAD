@@ -1,4 +1,7 @@
 (sym_lib_table
   (version 7)
-  (lib (name "Directory")(type "KiCad")(uri "C:/Users/Kevin/LANL100kTankKiCAD/ComponentLib/PPTC202LFBN-RC.kicad_sym")(options "")(descr ""))
+  (lib (name "Directory")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/PPTC202LFBN-RC.kicad_sym")(options "")(descr ""))
+  (lib (name "Directory2")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/2025-11-20_08-37-54.kicad_sym")(options "")(descr ""))
+  (lib (name "FDS9945")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/FDS9945.kicad_sym")(options "")(descr ""))
+  (lib (name "RC0603FR-0710KL")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/RC0603FR-0710KL.kicad_sym")(options "")(descr ""))
 )
