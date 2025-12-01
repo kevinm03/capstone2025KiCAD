@@ -1,0 +1,132 @@
+(footprint "J1071CS12VDC.36"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "K**"
+		(at 0 9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fe63af4d-4eeb-46f2-89a8-73a2a00d6df4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "J1071CS12VDC.36"
+		(at -0.5 -9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "aa8d359e-ef08-4702-8fda-224f0837acdd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b23db5d-f1d7-4abe-a786-4a65ccfac1fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd65535e-d75e-456e-886e-1d99161563d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -9.5 7.75)
+		(end 9.5 -7.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d859c4b6-7887-4161-aae5-d924440462cc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -1 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4f1f061f-0213-4f57-9299-edebe16ae202")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -6.1 -6)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d7e6c3bf-b953-4eee-b2d2-d6406a170bbd")
+	)
+	(pad "2" thru_hole circle
+		(at 6.1 -6)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ed05e1e3-daa8-47ab-b044-10105639262e")
+	)
+	(pad "3" thru_hole circle
+		(at -6.1 6)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e3ed1244-a927-4048-a5f7-8fd933480c17")
+	)
+	(pad "4" thru_hole circle
+		(at 8.1 0)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fd33dd30-140b-40cf-b6d6-beedfdbdee6a")
+	)
+	(pad "5" thru_hole circle
+		(at 6.1 6)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1e4a2067-7982-4ed8-8bc6-ba3752e5a63e")
+	)
+	(embedded_fonts no)
+	(model "C:/capstoneKiCAD/ComponentLib/J1071C.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)

@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 8.8138,
+          "width": 10.3632
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -613,6 +613,10 @@
     [
       "98417f13-6c77-491c-9e7a-d44238d08d4b",
       "Root"
+    ],
+    [
+      "6ca66d74-208b-4ec7-b5d5-9dc594e36842",
+      "ActuatorCTRL"
     ]
   ],
   "text_variables": {}

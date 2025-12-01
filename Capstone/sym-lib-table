@@ -4,4 +4,6 @@
   (lib (name "Directory2")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/2025-11-20_08-37-54.kicad_sym")(options "")(descr ""))
   (lib (name "FDS9945")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/FDS9945.kicad_sym")(options "")(descr ""))
   (lib (name "RC0603FR-0710KL")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/RC0603FR-0710KL.kicad_sym")(options "")(descr ""))
+  (lib (name "J1071CS12VDC.36")(type "KiCad")(uri "${KIPRJMOD}/J1071CS12VDC.36.kicad_sym")(options "")(descr ""))
+  (lib (name "SSM6N7002KFU,LF")(type "KiCad")(uri "${KIPRJMOD}/SSM6N7002KFU,LF.kicad_sym")(options "")(descr ""))
 )
