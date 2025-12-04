@@ -2933,7 +2933,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1039f701-de31-4778-b37b-8340db6764fd")
-		(property "Reference" "R1"
+		(property "Reference" "R7"
 			(at 55.88 52.07 0)
 			(effects
 				(font
@@ -2987,7 +2987,7 @@
 		(instances
 			(project "Capstone"
 				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b/af725f1d-9ace-4e44-bd0e-35bc3626a4cd"
-					(reference "R1")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -3003,7 +3003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24191fe1-84fd-4539-a9c0-8b6c613f7f89")
-		(property "Reference" "MOSFET1"
+		(property "Reference" "U3"
 			(at 48.26 71.1199 0)
 			(effects
 				(font
@@ -3062,7 +3062,7 @@
 		(instances
 			(project ""
 				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b/af725f1d-9ace-4e44-bd0e-35bc3626a4cd"
-					(reference "MOSFET1")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -3077,7 +3077,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29e6b384-724d-4290-9f32-c06bb5f128b0")
-		(property "Reference" "R4"
+		(property "Reference" "R10"
 			(at 91.44 78.7399 90)
 			(effects
 				(font
@@ -3133,7 +3133,7 @@
 		(instances
 			(project "Capstone"
 				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b/af725f1d-9ace-4e44-bd0e-35bc3626a4cd"
-					(reference "R4")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -3219,7 +3219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "648e4e8f-7dd4-42ab-b9f5-e86631297cd6")
-		(property "Reference" "R2"
+		(property "Reference" "R8"
 			(at 116.84 45.72 0)
 			(effects
 				(font
@@ -3273,7 +3273,7 @@
 		(instances
 			(project "Capstone"
 				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b/af725f1d-9ace-4e44-bd0e-35bc3626a4cd"
-					(reference "R2")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -3421,7 +3421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ee32f5b-355f-4c2d-96b1-83256c30d4de")
-		(property "Reference" "R7"
+		(property "Reference" "R9"
 			(at 31.75 77.4699 90)
 			(effects
 				(font
@@ -3477,7 +3477,7 @@
 		(instances
 			(project "Capstone"
 				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b/af725f1d-9ace-4e44-bd0e-35bc3626a4cd"
-					(reference "R7")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -3559,7 +3559,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b150e681-90ae-4467-8866-0a00cf4cc55a")
-		(property "Reference" "MOSFET2"
+		(property "Reference" "U4"
 			(at 107.95 72.3899 0)
 			(effects
 				(font
@@ -3618,7 +3618,7 @@
 		(instances
 			(project ""
 				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b/af725f1d-9ace-4e44-bd0e-35bc3626a4cd"
-					(reference "MOSFET2")
+					(reference "U4")
 					(unit 1)
 				)
 			)

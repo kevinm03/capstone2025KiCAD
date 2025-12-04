@@ -13,4 +13,5 @@
   (lib (name "TO220_LTO_VIS")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/TO220_LTO_VIS.kicad_sym")(options "")(descr ""))
   (lib (name "BUK965R8")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/BUK965R8.kicad_sym")(options "")(descr ""))
   (lib (name "CF14JT10K0")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/CF14JT10K0.kicad_sym")(options "")(descr ""))
+  (lib (name "YR1B20RCC")(type "KiCad")(uri "C:/capstoneKiCAD/ComponentLib/YR1B20RCC.kicad_sym")(options "")(descr ""))
 )
