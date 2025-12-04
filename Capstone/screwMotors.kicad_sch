@@ -1093,330 +1093,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Directory2:TDH50H1R00FE-TR"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 5.715 3.81 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "TDH50H1R00FE-TR"
-				(at 6.35 -3.81 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "RES_TDH50_OHM"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "TDH50H1R00FE-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "TDH50H1R00FE-TR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "RES_TDH50_OHM RES_TDH50_OHM-M RES_TDH50_OHM-L"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TDH50H1R00FE-TR_1_1"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 3.175 1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.175 1.27) (xy 4.445 -1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.445 -1.27) (xy 5.715 1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.715 1.27) (xy 6.985 -1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 6.985 -1.27) (xy 8.255 1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 8.255 1.27) (xy 9.525 -1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 9.525 -1.27) (xy 10.16 0)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 0 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "TDH50H1R00FE-TR_1_2"
-				(polyline
-					(pts
-						(xy -1.27 8.255) (xy 1.27 9.525)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 5.715) (xy 1.27 6.985)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 3.175) (xy 1.27 4.445)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy -1.27 3.175)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 9.525) (xy 0 10.16)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 6.985) (xy -1.27 8.255)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 4.445) (xy -1.27 5.715)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 12.7 270)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 90)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "RC0603FR-0710KL:RC0603FR-0710KL"
 			(pin_names
 				(offset 0.254)
@@ -2298,6 +1974,26 @@
 		)
 		(uuid ca9b91c0-eeaf-406b-b03b-bd799720c5ca)
 	)
+	(text "10 Ohm / 1 Ohm"
+		(exclude_from_sim no)
+		(at 55.88 42.672 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "12e4ed33-913e-41d6-8dd8-6b6bd9ee59df")
+	)
+	(text "PA14"
+		(exclude_from_sim no)
+		(at 237.236 59.182 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2f99520d-d484-449f-994a-ce8fb10bbb78")
+	)
 	(text "PCB to Motor Controller\n"
 		(exclude_from_sim no)
 		(at 247.142 20.32 0)
@@ -2318,23 +2014,31 @@
 		)
 		(uuid "9a21c5e8-6bb4-4ba3-9f96-d013a46f26f9")
 	)
-	(junction
-		(at 110.49 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0505ad4d-2320-458a-b243-ef9e48f218c7")
+	(text "PC8\n"
+		(exclude_from_sim no)
+		(at 235.966 30.734 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bc3dc5fa-dfed-4953-80dd-49ec4e329517")
+	)
+	(text "10 Ohm / 1 Ohm"
+		(exclude_from_sim no)
+		(at 116.586 50.292 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "df8e3ae1-df4d-417c-bbbf-fb0811685814")
 	)
 	(junction
 		(at 245.11 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f607242-ed95-42e0-bfa5-6e542b6dbdf8")
-	)
-	(junction
-		(at 123.19 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7845e4d2-68bd-4940-ae49-eb87f5965829")
 	)
 	(junction
 		(at 88.9 73.66)
@@ -2359,18 +2063,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4d3c8e2-52ba-4e66-a786-44c3a4841fb3")
-	)
-	(junction
-		(at 49.53 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f22a6066-ef1f-4732-bde2-600c9df4c8a6")
-	)
-	(junction
-		(at 62.23 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb42d24a-49de-4736-9a1b-288168543fe0")
 	)
 	(no_connect
 		(at 247.65 71.12)
@@ -2430,16 +2122,6 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 59.69) (xy 110.49 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21c53577-b238-4558-87b5-e326e242b137")
-	)
-	(wire
-		(pts
 			(xy 245.11 60.96) (xy 245.11 81.28)
 		)
 		(stroke
@@ -2447,16 +2129,6 @@
 			(type default)
 		)
 		(uuid "25d23267-7425-474a-a318-8439b367c010")
-	)
-	(wire
-		(pts
-			(xy 123.19 59.69) (xy 123.19 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29896c2d-8547-4736-a9de-3bd8fbc0aa17")
 	)
 	(wire
 		(pts
@@ -2560,26 +2232,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 45.72) (xy 62.23 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cb3d09d-f559-4d19-86ff-852a3afd178c")
-	)
-	(wire
-		(pts
-			(xy 123.19 67.31) (xy 123.19 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "722463ad-b490-427d-80c8-2152c5780fef")
-	)
-	(wire
-		(pts
 			(xy 232.41 36.83) (xy 246.38 36.83)
 		)
 		(stroke
@@ -2597,16 +2249,6 @@
 			(type default)
 		)
 		(uuid "9964d998-0190-4907-b8ad-9e739b4bc22f")
-	)
-	(wire
-		(pts
-			(xy 49.53 52.07) (xy 49.53 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e100b19-ab5f-4427-bf66-ad51b06db52a")
 	)
 	(wire
 		(pts
@@ -2650,16 +2292,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 45.72) (xy 49.53 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bfe3b6a9-3de9-4af6-8f2d-c889bce604a4")
-	)
-	(wire
-		(pts
 			(xy 88.9 73.66) (xy 96.52 73.66)
 		)
 		(stroke
@@ -2700,26 +2332,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 52.07) (xy 62.23 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da773f3d-1916-48a8-bcb7-6dd7df8e41d2")
-	)
-	(wire
-		(pts
-			(xy 110.49 52.07) (xy 110.49 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e79ea676-2ea9-4a99-9c5a-04192b1c14d8")
-	)
-	(wire
-		(pts
 			(xy 29.21 72.39) (xy 36.83 72.39)
 		)
 		(stroke
@@ -2727,26 +2339,6 @@
 			(type default)
 		)
 		(uuid "fed8f549-0e92-45cf-a321-d39760bd99b8")
-	)
-	(label "S1_motor2"
-		(at 232.41 63.5 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "360a575f-c08c-4cc2-99af-c7a0a511f3da")
-	)
-	(label "S1_motor1"
-		(at 232.41 34.29 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "45f0f78b-8cc2-4642-bed9-a71ab66426bd")
 	)
 	(label "S5_motor2"
 		(at 232.41 66.04 0)
@@ -2768,6 +2360,16 @@
 		)
 		(uuid "707a345d-fb7c-4ca1-a7a2-f5fb8e271178")
 	)
+	(label "S1_motor1"
+		(at 232.41 34.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "73a864d9-c7ed-48a6-b609-ea2044676ab5")
+	)
 	(label "S5_motor1"
 		(at 77.47 73.66 0)
 		(effects
@@ -2777,6 +2379,16 @@
 			(justify left bottom)
 		)
 		(uuid "ab35fb22-f3d6-4d50-9d65-db239781d34e")
+	)
+	(label "S1_motor2"
+		(at 232.41 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c48843cc-1dcb-491d-8387-aea488615e83")
 	)
 	(label "S5_motor2"
 		(at 17.78 72.39 0)
@@ -2790,7 +2402,7 @@
 	)
 	(symbol
 		(lib_id "TO220_LTO_VIS:LTO050F10R00JTE3")
-		(at 49.53 45.72 0)
+		(at 49.53 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2799,15 +2411,15 @@
 		(fields_autoplaced yes)
 		(uuid "023765dc-27c8-4b51-b04f-4028b7fd6d7e")
 		(property "Reference" "R5"
-			(at 55.88 39.37 0)
+			(at 55.88 45.72 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Value" "LTO050F10R00JTE3"
-			(at 55.88 41.91 0)
+		(property "Value" "LTO050F10R00JTE3/TPAN0220J1R00K9"
+			(at 55.88 48.26 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -2815,7 +2427,7 @@
 			)
 		)
 		(property "Footprint" "TO220_LTO_VIS"
-			(at 49.53 45.72 0)
+			(at 49.53 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2825,7 +2437,7 @@
 			)
 		)
 		(property "Datasheet" "LTO050F10R00JTE3"
-			(at 49.53 45.72 0)
+			(at 49.53 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2835,7 +2447,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 49.53 45.72 0)
+			(at 49.53 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2918,76 +2530,6 @@
 			(project "Capstone"
 				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b/af725f1d-9ace-4e44-bd0e-35bc3626a4cd"
 					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Directory2:TDH50H1R00FE-TR")
-		(at 49.53 58.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1039f701-de31-4778-b37b-8340db6764fd")
-		(property "Reference" "R7"
-			(at 55.88 52.07 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "TDH50H1R00FE-TR"
-			(at 55.88 54.61 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "Custom:RES_TDH50_OHM"
-			(at 49.53 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "TDH50H1R00FE-TR"
-			(at 49.53 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 49.53 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fffd8278-769c-4ae8-97cf-296a6ee12bd1")
-		)
-		(pin "2"
-			(uuid "6c64c5e4-97d1-4b33-8b8e-f71558b45b6e")
-		)
-		(instances
-			(project "Capstone"
-				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b/af725f1d-9ace-4e44-bd0e-35bc3626a4cd"
-					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -3141,7 +2683,7 @@
 	)
 	(symbol
 		(lib_id "TO220_LTO_VIS:LTO050F10R00JTE3")
-		(at 110.49 67.31 0)
+		(at 110.49 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3150,15 +2692,15 @@
 		(fields_autoplaced yes)
 		(uuid "59d5497a-26b7-467e-b0b0-db615816df42")
 		(property "Reference" "R6"
-			(at 116.84 60.96 0)
+			(at 116.84 53.34 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Value" "LTO050F10R00JTE3"
-			(at 116.84 63.5 0)
+		(property "Value" "LTO050F10R00JTE3/TPAN0220J1R00K9"
+			(at 116.84 55.88 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3166,7 +2708,7 @@
 			)
 		)
 		(property "Footprint" "TO220_LTO_VIS"
-			(at 110.49 67.31 0)
+			(at 110.49 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3176,7 +2718,7 @@
 			)
 		)
 		(property "Datasheet" "LTO050F10R00JTE3"
-			(at 110.49 67.31 0)
+			(at 110.49 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3186,7 +2728,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 67.31 0)
+			(at 110.49 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3204,76 +2746,6 @@
 			(project "Capstone"
 				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b/af725f1d-9ace-4e44-bd0e-35bc3626a4cd"
 					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Directory2:TDH50H1R00FE-TR")
-		(at 110.49 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "648e4e8f-7dd4-42ab-b9f5-e86631297cd6")
-		(property "Reference" "R8"
-			(at 116.84 45.72 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "TDH50H1R00FE-TR"
-			(at 116.84 48.26 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "Custom:RES_TDH50_OHM"
-			(at 110.49 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "TDH50H1R00FE-TR"
-			(at 110.49 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 110.49 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c29e4ff2-817d-411f-a29f-4ed0f75e3c0e")
-		)
-		(pin "1"
-			(uuid "4610198c-450f-4e89-8895-0882ae36b554")
-		)
-		(instances
-			(project "Capstone"
-				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b/af725f1d-9ace-4e44-bd0e-35bc3626a4cd"
-					(reference "R8")
 					(unit 1)
 				)
 			)
