@@ -118,7 +118,7 @@
 		(uuid "1e4a2067-7982-4ed8-8bc6-ba3752e5a63e")
 	)
 	(embedded_fonts no)
-	(model "C:/capstoneKiCAD/ComponentLib/J1071C.stp"
+	(model "C:/capstoneKiCAD/ComponentLib/Models/J1071C.stp"
 		(offset
 			(xyz 0 0 0)
 		)

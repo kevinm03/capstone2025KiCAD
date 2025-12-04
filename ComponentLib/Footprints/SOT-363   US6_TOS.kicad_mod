@@ -579,7 +579,7 @@
 		(uuid "7f4e89b3-fb79-4b4f-8d7a-d57014129ee6")
 	)
 	(embedded_fonts no)
-	(model "C:/capstoneKiCAD/ComponentLib/SSM6N7002KFU,LF.step"
+	(model "C:/capstoneKiCAD/ComponentLib/Models/SSM6N7002KFU,LF.step"
 		(offset
 			(xyz 0 0 0)
 		)
