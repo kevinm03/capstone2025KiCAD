@@ -6,8 +6,8 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 30.48 119.38)
-		(size 50.8 36.83)
+		(at 38.1 107.95)
+		(size 39.37 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "0c23cd94-8645-4ac0-afb7-2d08f4fe50e9")
 		(property "Sheetname" "drill"
-			(at 30.48 118.6684 0)
+			(at 38.1 107.2384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "drill.kicad_sch"
-			(at 30.48 156.7946 0)
+			(at 38.1 135.2046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -90,8 +90,8 @@
 		)
 	)
 	(sheet
-		(at 36.83 77.216)
-		(size 43.18 32.004)
+		(at 38.1 72.39)
+		(size 39.37 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -106,7 +106,7 @@
 		)
 		(uuid "6ca66d74-208b-4ec7-b5d5-9dc594e36842")
 		(property "Sheetname" "ActuatorCTRL"
-			(at 36.83 76.5044 0)
+			(at 38.1 71.6784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -115,7 +115,7 @@
 			)
 		)
 		(property "Sheetfile" "ActuatorCTRL.kicad_sch"
-			(at 36.83 109.8046 0)
+			(at 38.1 99.6446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -124,7 +124,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 36.83 77.216 0)
+			(at 38.1 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -140,8 +140,8 @@
 		)
 	)
 	(sheet
-		(at 107.95 35.56)
-		(size 52.07 39.37)
+		(at 92.71 39.37)
+		(size 39.37 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -156,7 +156,7 @@
 		)
 		(uuid "af725f1d-9ace-4e44-bd0e-35bc3626a4cd")
 		(property "Sheetname" "Screw Motors"
-			(at 107.95 34.8484 0)
+			(at 92.71 38.6584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -165,7 +165,7 @@
 			)
 		)
 		(property "Sheetfile" "screwMotors.kicad_sch"
-			(at 107.95 75.5146 0)
+			(at 92.71 66.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1,4 +1,4 @@
-26755986661842894
+26757757443352126
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59352,6 +59352,13 @@ ceramic
 0
 3
 3
+Custom
+CFSH0520LTRPBFREE
+CFSH05-20L TR PBFREE-6
+Schottky Diode
+0
+2
+2
 Custom
 CONN02_EBBA_10X7P6_ADM
 

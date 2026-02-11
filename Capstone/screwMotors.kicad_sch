@@ -2082,16 +2082,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 73.66) (xy 88.9 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01c114a1-e565-4885-967d-939a0eabaee2")
-	)
-	(wire
-		(pts
 			(xy 104.14 87.63) (xy 104.14 86.36)
 		)
 		(stroke
@@ -2112,7 +2102,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 63.5) (xy 247.65 63.5)
+			(xy 243.84 63.5) (xy 247.65 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2212,7 +2202,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 72.39) (xy 29.21 72.39)
+			(xy 26.67 72.39) (xy 29.21 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2222,7 +2212,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 66.04) (xy 247.65 66.04)
+			(xy 243.84 66.04) (xy 247.65 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2232,13 +2222,23 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 36.83) (xy 246.38 36.83)
+			(xy 243.84 36.83) (xy 246.38 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "869cfacb-ead0-49fa-96d8-f04598b30c0c")
+	)
+	(wire
+		(pts
+			(xy 80.01 68.58) (xy 80.01 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96e446ef-22b5-4dc4-beca-52f5512d3743")
 	)
 	(wire
 		(pts
@@ -2252,7 +2252,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 34.29) (xy 246.38 34.29)
+			(xy 243.84 34.29) (xy 246.38 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2279,6 +2279,16 @@
 			(type default)
 		)
 		(uuid "b4f88f48-c561-49f8-9218-c711119e4d18")
+	)
+	(wire
+		(pts
+			(xy 80.01 73.66) (xy 88.9 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b78260cf-01af-471b-b8ec-f4c6a135ce4e")
 	)
 	(wire
 		(pts
@@ -2340,65 +2350,71 @@
 		)
 		(uuid "fed8f549-0e92-45cf-a321-d39760bd99b8")
 	)
-	(label "S5_motor2"
-		(at 232.41 66.04 0)
+	(hierarchical_label "S5_motor2"
+		(shape input)
+		(at 243.84 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "6eb1895e-53d7-4427-b8a8-1396be43e908")
+		(uuid "0aa991b2-1b88-490f-b67f-e27dfe9a9d07")
 	)
-	(label "S5_motor1"
-		(at 232.41 36.83 0)
+	(hierarchical_label "S5_motor1"
+		(shape input)
+		(at 80.01 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "707a345d-fb7c-4ca1-a7a2-f5fb8e271178")
+		(uuid "3ed54a32-f4ab-4a0e-a14c-aa3045f89e2a")
 	)
-	(label "S1_motor1"
-		(at 232.41 34.29 0)
+	(hierarchical_label "S1_motor1"
+		(shape input)
+		(at 243.84 34.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "73a864d9-c7ed-48a6-b609-ea2044676ab5")
+		(uuid "82cff5cf-a739-44df-b4ee-3efa931071aa")
 	)
-	(label "S5_motor1"
-		(at 77.47 73.66 0)
+	(hierarchical_label "S5_motor2"
+		(shape input)
+		(at 26.67 72.39 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "ab35fb22-f3d6-4d50-9d65-db239781d34e")
+		(uuid "945db7fd-f05b-46ae-aa7e-35f7632c00f3")
 	)
-	(label "S1_motor2"
-		(at 232.41 63.5 0)
+	(hierarchical_label "S5_motor1"
+		(shape input)
+		(at 243.84 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "c48843cc-1dcb-491d-8387-aea488615e83")
+		(uuid "eee998ee-febc-42cb-815d-55c1f451474a")
 	)
-	(label "S5_motor2"
-		(at 17.78 72.39 0)
+	(hierarchical_label "S1_motor2"
+		(shape input)
+		(at 243.84 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "cfc3aac7-554b-47ec-9945-6c7d3a04066d")
+		(uuid "f1bc9135-3876-4831-aad4-fff39b461b54")
 	)
 	(symbol
 		(lib_id "TO220_LTO_VIS:LTO050F10R00JTE3")
