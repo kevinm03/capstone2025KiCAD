@@ -1,4 +1,4 @@
-26757757443352126
+26768389956527449
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59353,6 +59353,20 @@ ceramic
 3
 3
 Custom
+CAPC6153X670N
+
+
+0
+2
+2
+Custom
+CAPRB500W50L400T250H550
+
+
+0
+2
+2
+Custom
 CFSH0520LTRPBFREE
 CFSH05-20L TR PBFREE-6
 Schottky Diode
@@ -59394,6 +59408,13 @@ CUI_TB005_-762-06BE
 0
 6
 6
+Custom
+FUSC6125X279N
+
+
+0
+2
+2
 Custom
 MODULE_NUCLEO-G474RE
 
@@ -59450,6 +59471,27 @@ SAMTEC_TS-116-G-A
 0
 16
 16
+Custom
+SAMTEC_TSW-101-17-T-T
+
+
+0
+3
+3
+Custom
+SAMTEC_TSW-103-07-G-T
+
+
+0
+9
+9
+Custom
+SASeries_LTF
+
+SA6.0A 
+0
+2
+2
 Custom
 SOIC8_4X5_ONS
 

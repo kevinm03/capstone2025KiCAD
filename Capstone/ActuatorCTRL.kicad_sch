@@ -2511,16 +2511,6 @@
 		)
 		(uuid "ff386b79-89d6-4233-b728-b9f24e46bba2")
 	)
-	(label "K56Ctrl"
-		(at 132.08 143.51 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1411547b-0bbe-4311-8a3c-d0e4c5f080e4")
-	)
 	(label "Actuator2_Power"
 		(at 82.55 82.55 0)
 		(effects
@@ -2530,6 +2520,16 @@
 			(justify left bottom)
 		)
 		(uuid "2f0f5d76-3fc6-4a21-ae3c-4ab34ffaa1cb")
+	)
+	(label "K1Ctrl"
+		(at 132.08 143.51 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4d082baf-039d-4b90-ae61-5bba7d80a0a4")
 	)
 	(label "Actuator2Pos"
 		(at 232.41 62.23 0)
@@ -2661,6 +2661,16 @@
 		)
 		(uuid "b35dd1f6-3a99-4bd2-90e0-d2cd2a3598f6")
 	)
+	(label "K56Ctrl"
+		(at 88.9 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b6ebf2eb-c36f-4487-bc8f-03d3a4819a1d")
+	)
 	(label "Actuator1Pos"
 		(at 204.47 41.91 0)
 		(effects
@@ -2711,16 +2721,6 @@
 		)
 		(uuid "dd68e579-afae-43ab-aa88-0f96aa24aafc")
 	)
-	(label "K1Ctrl"
-		(at 88.9 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f5bc5fb4-dcfe-4e50-8dcb-899aa2ba5f56")
-	)
 	(label "K2Ctrl"
 		(at 81.28 87.63 0)
 		(effects
@@ -2730,6 +2730,17 @@
 			(justify left bottom)
 		)
 		(uuid "fcf9a8fb-25da-4e54-b8a3-9fe5933cb87b")
+	)
+	(hierarchical_label "actuator1_fwdrev"
+		(shape input)
+		(at 77.47 138.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0be32587-e8ff-475a-8617-951b7de6fe76")
 	)
 	(hierarchical_label "actuator2_fwdrev"
 		(shape input)
@@ -2741,17 +2752,6 @@
 			(justify left)
 		)
 		(uuid "2ea76a81-17b3-4fb7-9447-4817b2b4cb05")
-	)
-	(hierarchical_label "actuator1_fwdrev"
-		(shape input)
-		(at 123.19 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "34191c8e-1909-41db-b4fd-e419ce9e0129")
 	)
 	(hierarchical_label "actuator1_onoff"
 		(shape input)
@@ -2766,14 +2766,14 @@
 	)
 	(hierarchical_label "actuator2_onoff"
 		(shape input)
-		(at 77.47 138.43 180)
+		(at 123.19 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "b570ef0f-1241-48a0-8fe0-b90db660a738")
+		(uuid "c8fb8344-f099-4b8e-893b-d95672095e6c")
 	)
 	(symbol
 		(lib_id "CF14JT10K0:CF14JT10K0")

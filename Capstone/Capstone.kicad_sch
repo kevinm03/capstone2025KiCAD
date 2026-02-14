@@ -5,8 +5,228 @@
 	(uuid "98417f13-6c77-491c-9e7a-d44238d08d4b")
 	(paper "A4")
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 85.09 80.01) (xy 85.09 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04f4267c-04bd-4dea-9ae8-4d52a5a0af85")
+	)
+	(wire
+		(pts
+			(xy 83.82 74.93) (xy 134.62 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25e2b12a-dab8-4a11-8df6-0fc39dffb932")
+	)
+	(wire
+		(pts
+			(xy 83.82 66.04) (xy 83.82 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27004418-6413-49a0-ac4f-bec33464f913")
+	)
+	(wire
+		(pts
+			(xy 77.47 29.21) (xy 134.62 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4810126e-a6d8-4699-a3c3-d00bf7d971be")
+	)
+	(wire
+		(pts
+			(xy 91.44 60.96) (xy 91.44 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "536aa103-a9fe-4ae9-ad79-3b3eda7525f4")
+	)
+	(wire
+		(pts
+			(xy 77.47 38.1) (xy 134.62 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5680a73e-419b-41cb-920c-7dbf83ca10c8")
+	)
+	(wire
+		(pts
+			(xy 77.47 63.5) (xy 86.36 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56f8d6b9-565b-46b1-8e3e-f98177178378")
+	)
+	(wire
+		(pts
+			(xy 77.47 31.75) (xy 134.62 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f0ede74-f933-4c56-9905-3b84c81f40b9")
+	)
+	(wire
+		(pts
+			(xy 82.55 100.33) (xy 82.55 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61756338-f82c-4a37-8beb-e3f63cdfcedb")
+	)
+	(wire
+		(pts
+			(xy 88.9 58.42) (xy 88.9 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fb61a3b-aceb-4ccd-b167-d3faf028764f")
+	)
+	(wire
+		(pts
+			(xy 134.62 60.96) (xy 91.44 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "704df10d-fe8b-4cdd-a070-bd1c0db2e6ea")
+	)
+	(wire
+		(pts
+			(xy 85.09 97.79) (xy 134.62 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80f41db8-f8f2-4b89-86db-ba4f5c7c7564")
+	)
+	(wire
+		(pts
+			(xy 88.9 63.5) (xy 134.62 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8853deb6-4128-4dc9-96a9-8a8b7ab8dae5")
+	)
+	(wire
+		(pts
+			(xy 82.55 82.55) (xy 77.47 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a73ab1e-aebb-4bf3-a1b3-f0fbe1bf39ed")
+	)
+	(wire
+		(pts
+			(xy 77.47 66.04) (xy 83.82 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aef5d292-3b0c-469e-b371-3d65b00bf473")
+	)
+	(wire
+		(pts
+			(xy 77.47 58.42) (xy 88.9 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5e0adee-4c1e-47ee-ba2e-e226eb522dc1")
+	)
+	(wire
+		(pts
+			(xy 134.62 100.33) (xy 82.55 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c135d468-2bf4-4fa9-aa74-82b166a0b583")
+	)
+	(wire
+		(pts
+			(xy 86.36 72.39) (xy 134.62 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da59ff94-3dba-41db-bdef-8ebb7895dd31")
+	)
+	(wire
+		(pts
+			(xy 77.47 80.01) (xy 85.09 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dec64d49-fbaa-40ac-b186-17ae8bc9127b")
+	)
+	(wire
+		(pts
+			(xy 91.44 55.88) (xy 77.47 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e21f0fe5-85d8-4907-ad06-3b39e8101c07")
+	)
+	(wire
+		(pts
+			(xy 86.36 63.5) (xy 86.36 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e58020bd-62f0-42e7-bc16-02dbb1752666")
+	)
+	(wire
+		(pts
+			(xy 77.47 35.56) (xy 134.62 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f15842ba-1850-4fbc-8357-64e02deeb3b1")
+	)
 	(sheet
-		(at 38.1 107.95)
+		(at 134.62 92.71)
 		(size 39.37 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +242,7 @@
 		)
 		(uuid "0c23cd94-8645-4ac0-afb7-2d08f4fe50e9")
 		(property "Sheetname" "drill"
-			(at 38.1 107.2384 0)
+			(at 134.62 91.9984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,12 +251,32 @@
 			)
 		)
 		(property "Sheetfile" "drill.kicad_sch"
-			(at 38.1 135.2046 0)
+			(at 134.62 119.9646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "SERVO1_PWM" input
+			(at 134.62 97.79 180)
+			(uuid "fa2de37f-7398-4a30-b999-7a5802bc9865")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SERVO2_PWM" input
+			(at 134.62 100.33 180)
+			(uuid "f09ee634-91bb-42c8-8b5d-d68c90decbf9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -48,8 +288,8 @@
 		)
 	)
 	(sheet
-		(at 38.1 39.37)
-		(size 39.37 26.67)
+		(at 38.1 20.32)
+		(size 39.37 76.2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -63,8 +303,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "20ca2869-4f08-4126-888f-a22542fe344a")
-		(property "Sheetname" "Headers"
-			(at 38.1 38.6584 0)
+		(property "Sheetname" "STM32 &Headers"
+			(at 38.1 19.6084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,12 +313,112 @@
 			)
 		)
 		(property "Sheetfile" "Headers.kicad_sch"
-			(at 38.1 66.6246 0)
+			(at 38.1 97.1046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "actuator1_fwdrev" input
+			(at 77.47 58.42 0)
+			(uuid "66f0f0b3-59ea-461a-bf91-66b6aa616c3f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "actuator1_onoff" input
+			(at 77.47 55.88 0)
+			(uuid "406e2169-81d9-4db1-9b7a-e5addf8a624c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "actuator2_fwdrev" input
+			(at 77.47 66.04 0)
+			(uuid "64b21af1-6daa-4df6-98b7-743222c192e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "actuator2_onoff" input
+			(at 77.47 63.5 0)
+			(uuid "4a5faa93-a7a2-4831-adbe-4b4964c3d8bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "S1_motor1" input
+			(at 77.47 29.21 0)
+			(uuid "704e4265-2ec1-416b-8b3f-47d54a62a0a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "S1_motor2" input
+			(at 77.47 35.56 0)
+			(uuid "c8891bca-9404-44e5-8c59-b82ef79eda58")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "S2_motor1" input
+			(at 77.47 31.75 0)
+			(uuid "df062750-da6b-4e99-b14d-8aa89b285b4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "S2_motor2" input
+			(at 77.47 38.1 0)
+			(uuid "54e867cb-f612-46d5-81a0-a2cc6dc2534a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SERVO1_PWM" input
+			(at 77.47 80.01 0)
+			(uuid "ed3e9316-ea42-4188-b83f-4d63ac9ee65d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SERVO2_PWM" input
+			(at 77.47 82.55 0)
+			(uuid "4853693c-1c77-4afe-8195-05e541172fbf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -90,7 +430,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 72.39)
+		(at 134.62 57.15)
 		(size 39.37 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -106,7 +446,7 @@
 		)
 		(uuid "6ca66d74-208b-4ec7-b5d5-9dc594e36842")
 		(property "Sheetname" "ActuatorCTRL"
-			(at 38.1 71.6784 0)
+			(at 134.62 56.4384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -115,7 +455,7 @@
 			)
 		)
 		(property "Sheetfile" "ActuatorCTRL.kicad_sch"
-			(at 38.1 99.6446 0)
+			(at 134.62 84.4046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -124,11 +464,51 @@
 			)
 		)
 		(property "Field2" ""
-			(at 38.1 72.39 0)
+			(at 134.62 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(pin "actuator1_fwdrev" input
+			(at 134.62 63.5 180)
+			(uuid "801316a0-a248-47e0-9141-6357964d5e31")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "actuator1_onoff" input
+			(at 134.62 60.96 180)
+			(uuid "2b8e6b24-3a3a-4a82-a5fe-4af45e698f96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "actuator2_fwdrev" input
+			(at 134.62 74.93 180)
+			(uuid "bd413cf3-26b4-4555-a293-501bd4f05a78")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "actuator2_onoff" input
+			(at 134.62 72.39 180)
+			(uuid "d6b353ce-2253-42d6-a2a0-4ee853d675cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -140,7 +520,7 @@
 		)
 	)
 	(sheet
-		(at 92.71 39.37)
+		(at 134.62 21.59)
 		(size 39.37 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -156,7 +536,7 @@
 		)
 		(uuid "af725f1d-9ace-4e44-bd0e-35bc3626a4cd")
 		(property "Sheetname" "Screw Motors"
-			(at 92.71 38.6584 0)
+			(at 134.62 20.8784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -165,12 +545,52 @@
 			)
 		)
 		(property "Sheetfile" "screwMotors.kicad_sch"
-			(at 92.71 66.6246 0)
+			(at 134.62 48.8446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "S1_motor1" input
+			(at 134.62 29.21 180)
+			(uuid "c24c4d21-9239-4fe4-9820-a8f2e60ea1e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "S1_motor2" input
+			(at 134.62 35.56 180)
+			(uuid "cc07ddb3-86ca-4d6c-8847-7cace400388a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "S2_motor1" input
+			(at 134.62 31.75 180)
+			(uuid "5ef61adc-9a0f-4763-943d-b0e3b01c3068")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "S2_motor2" input
+			(at 134.62 38.1 180)
+			(uuid "0675e6b0-15f3-4b20-95f3-e45c146814aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
