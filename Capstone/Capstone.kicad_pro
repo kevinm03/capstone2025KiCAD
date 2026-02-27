@@ -501,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "CapstoneNets.net",
-      "plot": "../Gerber/",
+      "plot": "../",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Capstone.step",
@@ -666,7 +666,7 @@
     },
     "net_format_name": "KiCad",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -697,6 +697,10 @@
     [
       "af725f1d-9ace-4e44-bd0e-35bc3626a4cd",
       "Screw Motors"
+    ],
+    [
+      "3389f9cd-7a59-4c5b-8c0d-1c65ab34d7cd",
+      "RollerMotorCtrl"
     ]
   ],
   "text_variables": {}

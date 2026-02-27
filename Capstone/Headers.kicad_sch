@@ -4839,10 +4839,6 @@
 		(uuid "14d2787a-e32e-4729-906d-1a6aa13d878d")
 	)
 	(no_connect
-		(at 34.29 168.91)
-		(uuid "1601de35-d9de-46da-a8c2-97f6561ed9a6")
-	)
-	(no_connect
 		(at 196.85 156.21)
 		(uuid "1885ec6f-d6f6-4a26-b345-80b28cd35f1a")
 	)
@@ -4851,20 +4847,12 @@
 		(uuid "20670c5a-c6cf-4db7-9124-c40fd6529562")
 	)
 	(no_connect
-		(at 34.29 166.37)
-		(uuid "220cc24d-4dbd-4f7a-bcb4-523c34fa3e76")
-	)
-	(no_connect
 		(at 35.56 133.35)
 		(uuid "26b64f2b-186f-46b9-8428-a9cea3233964")
 	)
 	(no_connect
 		(at 248.92 124.46)
 		(uuid "283c603e-941d-4268-a6b2-5495fdf1c789")
-	)
-	(no_connect
-		(at 64.77 166.37)
-		(uuid "2975a89d-0562-45a0-af34-03b993b24de0")
 	)
 	(no_connect
 		(at 85.09 146.05)
@@ -4939,8 +4927,8 @@
 		(uuid "58214da8-a71a-4395-bc62-255fa52c2ec4")
 	)
 	(no_connect
-		(at 64.77 168.91)
-		(uuid "61a9cecd-b637-4a30-a373-82ff3cbc90de")
+		(at 34.29 168.91)
+		(uuid "59a18be5-2708-4faa-91d0-2cde4944d308")
 	)
 	(no_connect
 		(at 118.11 143.51)
@@ -4997,6 +4985,10 @@
 	(no_connect
 		(at 196.85 135.89)
 		(uuid "9958b4c0-2463-4c12-82ba-f43499db0aaa")
+	)
+	(no_connect
+		(at 34.29 166.37)
+		(uuid "9aec8a6e-28be-4c28-bdc8-954a58c334b8")
 	)
 	(no_connect
 		(at 248.92 129.54)
@@ -6281,6 +6273,28 @@
 			(justify left bottom)
 		)
 		(uuid "f3e08e14-5032-4302-81b3-03fcc8a4ece1")
+	)
+	(hierarchical_label "M1_A"
+		(shape input)
+		(at 64.77 168.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0bf754b9-a7ab-45d0-aeaf-3a0897f8a4af")
+	)
+	(hierarchical_label "M1_B"
+		(shape input)
+		(at 64.77 166.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1199f31c-d100-40f3-a769-b005430ed696")
 	)
 	(hierarchical_label "SERVO2_PWM"
 		(shape input)

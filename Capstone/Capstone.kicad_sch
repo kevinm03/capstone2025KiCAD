@@ -17,6 +17,26 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 96.52) (xy 73.66 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1685ace5-8448-4958-9db1-776566c0611f")
+	)
+	(wire
+		(pts
+			(xy 71.12 138.43) (xy 71.12 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18e21c93-8034-4705-9f50-fc1bf2383046")
+	)
+	(wire
+		(pts
 			(xy 83.82 74.93) (xy 134.62 74.93)
 		)
 		(stroke
@@ -217,6 +237,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 134.62) (xy 134.62 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f124da61-3263-4c86-ae01-dc57a709765a")
+	)
+	(wire
+		(pts
 			(xy 77.47 35.56) (xy 134.62 35.56)
 		)
 		(stroke
@@ -224,6 +254,16 @@
 			(type default)
 		)
 		(uuid "f15842ba-1850-4fbc-8357-64e02deeb3b1")
+	)
+	(wire
+		(pts
+			(xy 134.62 138.43) (xy 71.12 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd910fc1-dad8-4253-bd8d-8fdd21094057")
 	)
 	(sheet
 		(at 134.62 92.71)
@@ -421,10 +461,92 @@
 				(justify right)
 			)
 		)
+		(pin "M1_A" input
+			(at 73.66 96.52 270)
+			(uuid "5e72265f-348e-43b4-9f5f-7896cc09e0a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "M1_B" input
+			(at 71.12 96.52 270)
+			(uuid "08a57842-15ce-471c-895b-a82380b5b6d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "Capstone"
 				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 128.27)
+		(size 39.37 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3389f9cd-7a59-4c5b-8c0d-1c65ab34d7cd")
+		(property "Sheetname" "RollerMotorCtrl"
+			(at 134.62 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rollerMotorCtrl.kicad_sch"
+			(at 134.62 155.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "M1_A" input
+			(at 134.62 134.62 180)
+			(uuid "08a8f293-a84c-4ea8-9b47-994570be1bb8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "M1_B" input
+			(at 134.62 138.43 180)
+			(uuid "4a9f5abc-e3c6-4696-9050-991050dcfa9e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Capstone"
+				(path "/98417f13-6c77-491c-9e7a-d44238d08d4b"
+					(page "6")
 				)
 			)
 		)
