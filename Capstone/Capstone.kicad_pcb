@@ -6097,6 +6097,75 @@
 			)
 		)
 	)
+	(footprint "Custom:Heatsink"
+		(layer "F.Cu")
+		(uuid "6082cade-59b9-418f-96f0-f7b0dfe21448")
+		(at 104.6 68.6)
+		(property "Reference" "H1"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "564969de-b7dd-4dd3-ab49-1eaed6967325")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "Heatsink"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b6178c4-ffeb-4693-bc80-d501cc74955a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af76a66d-d5da-4815-abfd-a664c52e2127")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd96a18e-9ae2-4b05-8d65-f16e71221a87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr smd)
+		(embedded_fonts no)
+		(model "C:/capstoneKiCAD/ComponentLib/Models/507302B00000G.STEP"
+			(offset
+				(xyz 0 0 9.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 -0 -0)
+			)
+		)
+	)
 	(footprint "Custom:CAPRB500W50L400T250H550"
 		(layer "F.Cu")
 		(uuid "69d76a9a-eee1-43c3-b1ad-50f60667c4bf")
@@ -10859,6 +10928,75 @@
 			)
 		)
 	)
+	(footprint "Custom:Heatsink"
+		(layer "F.Cu")
+		(uuid "c14d4dbc-ed19-4ff0-8cd4-c34f9eb39408")
+		(at 124 68.6)
+		(property "Reference" "H2"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "90b44fc2-906d-4d0e-9143-a4da37e47123")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "Heatsink"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "acfa9bea-c645-4784-9d47-f2b258da78d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "468b08cd-7fa9-437c-8105-4e54f81c040d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08e7e617-cb08-4c1a-86aa-1161f83f3dc8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr smd)
+		(embedded_fonts no)
+		(model "C:/capstoneKiCAD/ComponentLib/Models/507302B00000G.STEP"
+			(offset
+				(xyz 0 0 9.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 -0 -0)
+			)
+		)
+	)
 	(footprint "Custom:SOT-363   US6_TOS"
 		(layer "F.Cu")
 		(uuid "c263d9ec-711a-4386-a46f-ab662f4e0d3c")
@@ -15441,7 +15579,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 				(justify mirror)
 			)
@@ -15453,7 +15591,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 				(justify mirror)
 			)
@@ -15607,6 +15745,17 @@
 			(uuid "86bc8d56-ccc0-4822-83a2-84130e0ac7a9")
 		)
 		(embedded_fonts no)
+		(model "C:/capstoneKiCAD/ComponentLib/Models/KRM55TR72E225MH01K.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "J1071CS12VDC.36:J1071CS12VDC.36"
 		(layer "B.Cu")
@@ -18036,7 +18185,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 				(justify mirror)
 			)
@@ -18048,7 +18197,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 				(justify mirror)
 			)
@@ -18202,6 +18351,17 @@
 			(uuid "d99f7f0c-e05a-4fde-9da8-f858e8be072b")
 		)
 		(embedded_fonts no)
+		(model "C:/capstoneKiCAD/ComponentLib/Models/KRM55TR72E225MH01K.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Custom:CAPC6153X670N"
 		(layer "B.Cu")
@@ -18214,7 +18374,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 				(justify mirror)
 			)
@@ -18226,7 +18386,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 				(justify mirror)
 			)
@@ -18380,6 +18540,17 @@
 			(uuid "9a45fcb5-b4fb-4149-a174-e3f249d13d4c")
 		)
 		(embedded_fonts no)
+		(model "C:/capstoneKiCAD/ComponentLib/Models/KRM55TR72E225MH01K.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Custom:CAPC6153X670N"
 		(layer "B.Cu")
@@ -18392,7 +18563,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 				(justify mirror)
 			)
@@ -18404,7 +18575,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 				(justify mirror)
 			)
@@ -18558,6 +18729,17 @@
 			(uuid "ffdb3d6e-8c94-41d7-9653-68da80d93ffb")
 		)
 		(embedded_fonts no)
+		(model "C:/capstoneKiCAD/ComponentLib/Models/KRM55TR72E225MH01K.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "J1071CS12VDC.36:J1071CS12VDC.36"
 		(layer "B.Cu")
